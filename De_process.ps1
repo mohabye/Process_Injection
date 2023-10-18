@@ -1,3 +1,4 @@
+# ان احسنت فمن الله و ان اسئت فمن نفسي والشيطان
 # Prerequisites:
 # - VirusTotal API key
 # - Slack webhook URL
